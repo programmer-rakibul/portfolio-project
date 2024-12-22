@@ -1,4 +1,4 @@
-nav > ul > li {
+/* nav > ul > li {
   display: inline;
   margin-right: 10px;
 }
@@ -10,3 +10,8 @@ nav > ul > li > a {
 footer {
   text-align: center;
 }
+
+.forest > label {
+  display: block;
+  margin-top: 10px;
+} */
