@@ -1,8 +1,12 @@
 nav > ul > li {
   display: inline;
+  margin-right: 10px;
 }
 
 nav > ul > li > a {
   text-decoration: none;
-  margin-right: 10px;
+}
+
+footer {
+  text-align: center;
 }
