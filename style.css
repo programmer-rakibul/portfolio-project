@@ -1,17 +1,9 @@
-/* nav > ul > li {
-  display: inline;
-  margin-right: 10px;
+td,
+th {
+  border: 1px solid black;
+  padding: 5px 10px;
 }
 
-nav > ul > li > a {
-  text-decoration: none;
+table {
+  border-collapse: collapse;
 }
-
-footer {
-  text-align: center;
-}
-
-.forest > label {
-  display: block;
-  margin-top: 10px;
-} */
