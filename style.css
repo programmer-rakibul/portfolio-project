@@ -7,3 +7,12 @@ th {
 table {
   border-collapse: collapse;
 }
+
+.nastedmenu {
+  list-style: none;
+  display: none;
+}
+
+nav li:hover .nastedmenu {
+  display: block;
+}
